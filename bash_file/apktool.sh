@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo apt update
 curl https://raw.githubusercontent.com/iBotPeaches/Apktool/master/scripts/linux/apktool > apktool
 wget https://bitbucket.org/iBotPeaches/apktool/downloads/apktool_2.9.3.jar
 mv apktool_2.9.3.jar apktool.jar
