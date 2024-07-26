@@ -32,7 +32,7 @@ print(
 )
 print("tele: @Cif_3")
 w = input("Enter a number your problem : ")
-print(os.popen("sudo apt update").read())
+
 if w == "1":
     os.system("bash bash_file/apktool.sh")
     print("apktool is solved")
