@@ -2,7 +2,7 @@ import os
 
 print(
     """
-,,
+
 `""*$b..
      ""*$o.
          "$$o.
